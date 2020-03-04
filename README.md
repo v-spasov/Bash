@@ -1,2 +1,2 @@
 # Bash
-AWs Launch Script in install Apache, PHP and MariaDB
+AWs Launch Script in install Apache
