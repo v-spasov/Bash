@@ -13,4 +13,4 @@ systemctl enable httpd
 
 # Create index.html
 cd /var/www/html
-echo "<html><h1>Welcome!</h1></html>"  >  index.html
+echo "<html><h1>Welcome</h1></html>"  >  index.html
